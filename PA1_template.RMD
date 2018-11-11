@@ -3,8 +3,8 @@ title: "Reproducible Project 1"
 author: "Prasad P"
 date: "29 October 2018"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
