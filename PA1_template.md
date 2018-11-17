@@ -3,8 +3,8 @@ title: "Reproducible Project 1"
 author: "Prasad P"
 date: "29 October 2018"
 output:
-  html_document: default
   word_document: default
+  html_document: default
   pdf_document: default
 ---
 ```{r setup, include=FALSE}
